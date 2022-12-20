@@ -9,7 +9,7 @@ const config = {
   title: 'dApploy',
   tagline: 'Documentation and Tutorials for dApploy',
   url: 'https://github.com',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   baseUrlIssueBanner: false, // Defaults to `true`
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
